@@ -14,7 +14,7 @@ function Header() {
     <div class="collapse navbar-collapse" id="mynavbar" style={{marginLeft:"20%"}}>
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">HOME</a>
+          <Link class="nav-link" to="/">HOME</Link>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="javascript:void(0)">BLOG</a>
@@ -23,7 +23,7 @@ function Header() {
           <a class="nav-link" href="javascript:void(0)">Social Media</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">plotfolio</a>
+          <Link class="nav-link" to="Portfolio">plotfolio</Link>
         </li>
       </ul>
       <form class="d-flex">

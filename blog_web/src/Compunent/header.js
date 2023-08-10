@@ -7,7 +7,7 @@ function Header() {
     <div>
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="javascript:void(0)" style={{fontFamily:"-moz-initial",fontWeight:"bold",fontSize:"25px"}}>MHK BLOG</a>
+    <Link class="navbar-brand" to="/" style={{fontFamily:"-moz-initial",fontWeight:"bold",fontSize:"25px"}}>MHK BLOG</Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -17,13 +17,14 @@ function Header() {
           <Link class="nav-link" to="/">HOME</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">BLOG</a>
+          <Link class="nav-link" to="Post2">BLOG</Link>
+        </li>
+        
+        <li class="nav-item">
+          <Link class="nav-link" to="Portfolio">Portfolio</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Social Media</a>
-        </li>
-        <li class="nav-item">
-          <Link class="nav-link" to="Portfolio">plotfolio</Link>
+          <Link class="nav-link" to="Login">Login</Link>
         </li>
       </ul>
       <form class="d-flex">

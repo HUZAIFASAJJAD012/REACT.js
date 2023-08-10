@@ -109,13 +109,13 @@ function Footer() {
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3 text-secondary"></i> New York, NY 10012, US</p>
+          <p><i class="fas fa-home me-3 text-secondary"></i> Pakistan</p>
           <p>
             <i class="fas fa-envelope me-3 text-secondary"></i>
-            info@example.com
+         huzaifasajjad4404@gmail.com
           </p>
-          <p><i class="fas fa-phone me-3 text-secondary"></i> + 01 234 567 88</p>
-          <p><i class="fas fa-print me-3 text-secondary"></i> + 01 234 567 89</p>
+          <p><i class="fas fa-phone me-3 text-secondary"></i> +92 3413332077</p>
+       
         </div>
  
       </div>
@@ -126,8 +126,8 @@ function Footer() {
 
 
   <div class="text-center p-4" style={{backgroundcolor: "rgba(0, 0, 0, 0.025)"}}>
-    © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © 2023 Copyright:
+    <a class="text-reset fw-bold" href="https://www.fiverr.com/s/Nl28rQ">huzaifasajjad.com</a>
   </div>
 
 </footer>

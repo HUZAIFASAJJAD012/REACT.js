@@ -9,10 +9,11 @@
 
 
 .content{
-	position: absolute;
+	position: relative;
 	top: 50%;
 	left:8%;
 	transform: translateY(-50%);
+
 }
 
 
